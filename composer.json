@@ -3,8 +3,9 @@
     "type": "library",
     "description": "Interface for retrieving International Bank Account Number (IBAN) data",
     "keywords": [
+        "IBAN",
         "International Bank Account Number",
-        "IBAN"
+        "ISO 13616-1:2007"
     ],
     "support": {
         "issues": "https://github.com/beastbytes/iban-data/issues",

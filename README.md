@@ -14,7 +14,7 @@ php composer.phar require --prefer-dist beastbytes/iban-data
 or add
 
 ```json
-"beastbytes/iban-data": "^1.0.0"
+"beastbytes/iban-data": "^1.0"
 ```
 
 to the require section of your composer.json.
